@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Genesis",
+        "chapters": [
+            {
+                "chapter": 1,
+                "name": "Genesis"
+                "verses": [
+                    {
+                        "verse": 1,
+                        "text": "In the beginnging, God created the heavens and the earth.
+                    },
+                    {
+                        "verse": 2,
+                        "text": "The earth was formless and empty, and darkness covered the deep waters."
+                    },
+                ]
+            }
+        ]
+    },
+]
